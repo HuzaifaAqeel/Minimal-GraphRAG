@@ -1,0 +1,5 @@
+Helios Dynamics is an autonomous vehicle company. Helios Dynamics was founded by Dr. Lena Marsh and Tomas Reyes in 2018. The company is located in Munich.
+
+Tomas Reyes works at Helios Dynamics as chief technology officer. Helios Dynamics develops the Wayfinder self-driving stack.
+
+In 2022, Helios Dynamics partnered with Aurora Robotics on warehouse automation. The partnership combined Wayfinder navigation with Scout quadruped robots.
